@@ -1,0 +1,19 @@
+h4 {
+    text-align :center;
+    color:rgb(76, 177, 218);
+}
+
+#mar {
+     background-color: grey ;
+}
+
+a {
+     text-align: center;
+     text-decoration :none;
+     color : blue;
+}
+
+div{
+     text-align: center;
+     color:red;
+}
